@@ -16,7 +16,7 @@ Filled with elation, Antoinee shared his triumph with the villagers, earning the
 With determination in his heart and code in hand, Antoinee ventured forth, ready to conquer new coding challenges and unlock even greater mysteries in the realm of computation.
 
 ## Input
-A single integer provided by the user.
+A single integer provided by the user. ($1 \leq integer \leq 10^{9}$)
 ## Output
 The program should print either "Even" or "Odd" depending on the input number.
 ## Requirements
